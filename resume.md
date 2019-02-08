@@ -1,4 +1,4 @@
 ---
 layout: resume
-title: "About me"
+title: Resume
 ---
