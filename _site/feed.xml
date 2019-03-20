@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tung D. Le</title>
-    <description>Tung D. Le's homapage</description>
+    <description>Tung D. Le's homepage</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>2019-02-08</pubDate>
-    <lastBuildDate>Fri, 08 Feb 2019 11:39:41 +0900</lastBuildDate>
+    <pubDate>2019-03-20</pubDate>
+    <lastBuildDate>Wed, 20 Mar 2019 10:50:04 +0900</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
   </channel>
