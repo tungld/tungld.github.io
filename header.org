@@ -1,0 +1,9 @@
+#+AUTHOR: Tung D. Le
+#+EMAIL: tung@jp.ibm.com
+
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: html-style:nil
+#+OPTIONS: H:4 toc:2 num:nil ^:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css"/>
+
+
