@@ -129,6 +129,11 @@ div.outline-2 pre {
     overflow: auto;
 }
 
+div.org-src-container pre {
+    width: 65em;
+    overflow: auto;
+}
+
 /* @end */
 
 /* @group Header */
