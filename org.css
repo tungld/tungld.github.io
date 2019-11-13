@@ -134,7 +134,7 @@ div.outline-2 pre {
 /* @group Header */
 
 h1.title {
-    margin-top: 10px;
+    margin-top: 0.4em;
     text-align: center;
 }
 
@@ -197,8 +197,9 @@ h1.title {
 /* @group Outline Level 2 */
 
 .outline-2 h2 {
-    background: #ffc;
-    border-bottom: 1px solid #ccc;
+    background: #C0C0C0;
+    border-bottom: 1px solid #008080;
+    padding-left: 0.2em;
 }
 
 .outline-2 h2, .outline-2 h3 {
