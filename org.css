@@ -86,7 +86,7 @@ table {
 /* @group Layout */
 
 #content {
-    width: 90%;
+    width: 70%;
     margin-left: 1em;
     margin-right: auto;
 }
@@ -112,7 +112,7 @@ Hide the title "Table of Contents"
 
 /* #main { */
 div.outline-2 {
-    width: 80%;
+    width: 70%;
     float: right;
     /* The lines below are useful if the "main" div isn't available and
 	   div.outline-2 has to be used. */
@@ -125,12 +125,12 @@ div.outline-2 {
 }
 
 div.outline-2 pre {
-    width: 80%;
+    width: 100%;
     overflow: auto;
 }
 
 div.org-src-container pre {
-    width: 70%;
+    width: 100%;
     overflow: auto;
 }
 
@@ -139,6 +139,7 @@ div.org-src-container pre {
 /* @group Header */
 
 h1.title {
+    width: 100%;
     margin-top: 0.4em;
     text-align: center;
 }
