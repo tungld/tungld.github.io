@@ -20,14 +20,11 @@ I am currently a researcher at IBM Research - Tokyo. My main focus lies in the i
 | 2002 - 2007 | B.S. @ [[http://hust.edu.vn/][Hanoi University of Science and Technology]]  | [[https://uet.vnu.edu.vn/~nguyenthanhthuy/][Prof. Thanh-Thuy Nguyen]] |
 
 * Research
-** Research interests
-
 I really like the beauty of [[https://www.amazon.com/Algebra-Programming-Prentice-hall-International-Computer/dp/013507245X][the algebra of programming]] and would like to apply it for systematically optimizing parallel programs in high performance computing and deep learning.
-
-** Publications
-[[https://scholar.google.co.jp/citations?user%253DuuV9qHcAAAAJ&hl%253Den][Google Scholar]]
-** Academic activities
-PC members: [[http://www.smart-world.org/2018/scalcom/][ScalComm 2018]], [[http://www.smart-world.org/2019/scalcom/][ScalComm 2019]]
+- Publications: [[https://scholar.google.co.jp/citations?user%253DuuV9qHcAAAAJ&hl%253Den][Google Scholar]]
+- Academic activities:
+  - PC members: [[http://www.smart-world.org/2018/scalcom/][ScalComm 2018]], [[http://www.smart-world.org/2019/scalcom/][ScalComm 2019]]
+  - I am an [[https://dl.acm.org/author_page.cfm?id=84758683357][ACM member]].
 
 * Family
 - [[file:assets/images/2015-February.jpeg][My mother and young brother visited us in February 2015]].
