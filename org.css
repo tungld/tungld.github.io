@@ -102,6 +102,14 @@ table {
     overflow: auto;
 }
 
+/*
+Hide the title "Table of Contents"
+*/
+#table-of-contents h2 {
+    display: none;
+    color: transparent;
+}
+
 /* #main { */
 div.outline-2 {
     width: 52em;
