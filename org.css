@@ -51,25 +51,25 @@ h2 {
     margin: 0;
     font-size: 1.5em;
     line-height: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
 }
 h3 {
     margin: 0;
     font-size: 1.3333333333333333em;
     line-height: 1.125em;
-    margin-bottom: 1.125em;
+    margin-bottom: 0.3em;
 }
 h4 {
     margin: 0;
     font-size: 1.1666666666666667em;
     line-height: 1.2857142857142858em;
-    margin-bottom: 1.2857142857142858em;
+    margin-bottom: 0.3em;
 }
 p, ul, blockquote, pre, td, th, label {
     margin: 0;
     font-size: 1em;
-    line-height: 1.5em;
-    margin-bottom: 1.5em;
+    line-height: 1.2em;
+    margin-bottom: 0.3em;
 }
 p.small, #postamble {
     margin: 0;

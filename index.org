@@ -35,12 +35,17 @@ I really like the beauty of [[https://www.amazon.com/Algebra-Programming-Prentic
 - [[file:assets/images/2019-family.jpg][Our wedding anniversary in March 2019]].
 
 * <<contact_mark>>Contact
+Office address: 10th floor, Tower side, [[http://www.research.ibm.com/labs/tokyo/][IBM Japan Headquarters]] (19-21,
+Nihonbashi Hakozaki-cho, Chuo-ku, Tokyo 103-8510, Japan).
+
+Telephone number: +81-(3)-3808-5228.
+
+Email addresses:
 #+BEGIN_SRC haskell
 l = ["le", "duc", "tung"] -- list index starts from 1
-w_email = foldl(\x y: x ++ y,
-                [l[3], "@", "jp", ".ibm", ".com"])
-p_email = foldl(\x y: x ++ y,
-                [l[3] ++ l[1][1] ++ l[2][1], "@", "gmail", ".com"])
+w_email = fold (\x y: x ++ y) "" ([l[3], "@", "jp", ".ibm", ".com"])
+p_email = fold (\x y: x ++ y) "" ([l[3] ++ l[1][1] ++ l[2][1], "@", "gmail", ".com"])
 #+END_SRC
+See [[https://wiki.haskell.org/Fold][here]] for src_haskell[:exports code]{fold}.
 
 #+INCLUDE: footer.org

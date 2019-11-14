@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2019-11-14 Thu 15:58 -->
+<!-- 2019-11-14 Thu 16:58 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Tung D. Le</title>
@@ -64,19 +64,19 @@ for the JavaScript code in this tag.
 
 
 <p class="toc">
-<a href="#org95d165e" class="toc">About me</a> | <a href="#org31b05ca">Research</a> | <a href="#org921ddd9">Family</a> | <a href="#org24cf728">Contact</a>
+<a href="#org1816aee" class="toc">About me</a> | <a href="#org122b92e">Research</a> | <a href="#orge09cab8">Family</a> | <a href="#org74ddca4">Contact</a>
 </p>
 
-<div id="outline-container-org9782498" class="outline-2">
-<h2 id="org9782498"><a id="org95d165e"></a>About me</h2>
-<div class="outline-text-2" id="text-org9782498">
+<div id="outline-container-org84118a9" class="outline-2">
+<h2 id="org84118a9"><a id="org1816aee"></a>About me</h2>
+<div class="outline-text-2" id="text-org84118a9">
 <p>
 I am currently a researcher at IBM Research - Tokyo. My main focus lies in the intersection of deep learning, compiler and high performance computing.
 </p>
 </div>
-<div id="outline-container-org5005aa7" class="outline-3">
-<h3 id="org5005aa7">Work history</h3>
-<div class="outline-text-3" id="text-org5005aa7">
+<div id="outline-container-orgbbda034" class="outline-3">
+<h3 id="orgbbda034">Work history</h3>
+<div class="outline-text-3" id="text-orgbbda034">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -111,9 +111,9 @@ I am currently a researcher at IBM Research - Tokyo. My main focus lies in the i
 </div>
 </div>
 
-<div id="outline-container-org056ee7d" class="outline-3">
-<h3 id="org056ee7d">Education</h3>
-<div class="outline-text-3" id="text-org056ee7d">
+<div id="outline-container-org566b310" class="outline-3">
+<h3 id="org566b310">Education</h3>
+<div class="outline-text-3" id="text-org566b310">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -155,9 +155,9 @@ I am currently a researcher at IBM Research - Tokyo. My main focus lies in the i
 </div>
 </div>
 
-<div id="outline-container-org9a90fc6" class="outline-2">
-<h2 id="org9a90fc6"><a id="org31b05ca"></a>Research</h2>
-<div class="outline-text-2" id="text-org9a90fc6">
+<div id="outline-container-org9c8d267" class="outline-2">
+<h2 id="org9c8d267"><a id="org122b92e"></a>Research</h2>
+<div class="outline-text-2" id="text-org9c8d267">
 <p>
 I really like the beauty of <a href="https://www.amazon.com/Algebra-Programming-Prentice-hall-International-Computer/dp/013507245X">the algebra of programming</a> and would like to apply it for systematically optimizing parallel programs in high performance computing and deep learning.
 </p>
@@ -172,9 +172,9 @@ I really like the beauty of <a href="https://www.amazon.com/Algebra-Programming-
 </div>
 </div>
 
-<div id="outline-container-org7506202" class="outline-2">
-<h2 id="org7506202"><a id="org921ddd9"></a>Family</h2>
-<div class="outline-text-2" id="text-org7506202">
+<div id="outline-container-org90af9ed" class="outline-2">
+<h2 id="org90af9ed"><a id="orge09cab8"></a>Family</h2>
+<div class="outline-text-2" id="text-org90af9ed">
 <ul class="org-ul">
 <li><a href="assets/images/2015-February.jpeg">My mother and young brother visited us in February 2015</a>.</li>
 <li><a href="assets/images/2019-family.jpg">Our wedding anniversary in March 2019</a>.</li>
@@ -182,17 +182,30 @@ I really like the beauty of <a href="https://www.amazon.com/Algebra-Programming-
 </div>
 </div>
 
-<div id="outline-container-orgd7f8252" class="outline-2">
-<h2 id="orgd7f8252"><a id="org24cf728"></a>Contact</h2>
-<div class="outline-text-2" id="text-orgd7f8252">
+<div id="outline-container-org799bc44" class="outline-2">
+<h2 id="org799bc44"><a id="org74ddca4"></a>Contact</h2>
+<div class="outline-text-2" id="text-org799bc44">
+<p>
+Office address: 10th floor, Tower side, <a href="http://www.research.ibm.com/labs/tokyo/">IBM Japan Headquarters</a> (19-21,
+Nihonbashi Hakozaki-cho, Chuo-ku, Tokyo 103-8510, Japan).
+</p>
+
+<p>
+Telephone number: +81-(3)-3808-5228.
+</p>
+
+<p>
+Email addresses:
+</p>
 <div class="org-src-container">
 <pre class="src src-haskell">l = ["le", "duc", "tung"] -- list index starts from 1
-w_email = foldl(\x y: x ++ y,
-		[l[3], "@", "jp", ".ibm", ".com"])
-p_email = foldl(\x y: x ++ y,
-		[l[3] ++ l[1][1] ++ l[2][1], "@", "gmail", ".com"])
+w_email = fold (\x y: x ++ y) "" ([l[3], "@", "jp", ".ibm", ".com"])
+p_email = fold (\x y: x ++ y) "" ([l[3] ++ l[1][1] ++ l[2][1], "@", "gmail", ".com"])
 </pre>
 </div>
+<p>
+See <a href="https://wiki.haskell.org/Fold">here</a> for <code class="src src-haskell">fold</code>.
+</p>
 
 <hr>
 <p>
