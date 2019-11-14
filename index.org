@@ -3,7 +3,7 @@
 
 #+TITLE: Tung D. Le
 
-#+ATTR_HTML: :class header
+#+ATTR_HTML: :class toc
 [[aboutme_mark][About me]] | [[research_mark][Research]] | [[family_mark][Family]] | [[contact_mark][Contact]]
 
 * <<aboutme_mark>>About me

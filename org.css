@@ -86,37 +86,16 @@ table {
 /* @group Layout */
 
 #content {
-    width: 70%;
+    width: 96%;
     margin-left: 1em;
     margin-right: 1em;
 }
 
-p.header {
-    margin-top: 0.2em;
-    margin-bottom: 0.2em;
-    text-align: right;
-}
-
-#table-of-contents {
-    width: fit-content;
-    float: left;
-}
-
-/*
-Hide the title "Table of Contents"
-*/
-#table-of-contents h2 {
-    display: none;
-    color: transparent;
-}
-
 /* #main { */
 div.outline-2 {
-    width: 70%;
-    float: right;
-    /* The lines below are useful if the "main" div isn't available and
-	   div.outline-2 has to be used. */
-    position: relative;
+    width: 96%;
+    margin-left: 1em;
+    margin-right: 1em;
 }
 
 #postamble {
@@ -125,30 +104,48 @@ div.outline-2 {
 }
 
 div.outline-2 pre {
-    width: 100%;
+    width: 96%;
     overflow: auto;
 }
 
 div.org-src-container pre {
-    width: 100%;
+    width: 96%;
     overflow: auto;
 }
 
 /* @end */
 
 /* @group Header */
+#me {
+    width: 46%;
+    float:left;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    vertical-align: middle;
+    background-image: url(assets/images/200x-tung.jpg);
+    display: inline-block;
+    margin-top: 10pt;
+    margin-left: 1em;
 
-h1.title {
-    width: 100%;
-    margin-top: 0.4em;
-    text-align: center;
 }
 
 h1.title {
+    width: 46%;
+    text-align: left;
     font-size: 4em;
     font-weight: bold;
-    letter-spacing: -0.1em;
-    margin-bottom: 0.4em;
+    display: inline-block;
+    margin-top: 45px;
+    margin-left: 20px;
+}
+
+p.toc {
+    width: 96%;
+    margin-right: 1em;
+    margin-top: 0em;
+    margin-bottom: 0.2em;
+    text-align: right;
 }
 
 /* @end */
