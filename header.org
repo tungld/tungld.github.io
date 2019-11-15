@@ -5,6 +5,15 @@
 #+OPTIONS: html-style:nil
 #+OPTIONS: H:4 toc:nil num:nil ^:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css"/>
+#+HTML_HEAD: <!-- Global site tag (gtag.js) - Google Analytics -->
+#+HTML_HEAD: <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2420289-4"></script>
+#+HTML_HEAD: <script>
+#+HTML_HEAD:  window.dataLayer = window.dataLayer || [];
+#+HTML_HEAD:  function gtag(){dataLayer.push(arguments);}
+#+HTML_HEAD:  gtag('js', new Date());
+#+HTML_HEAD:  gtag('config', 'UA-2420289-4');
+#+HTML_HEAD:</script>
+
 
 #+HTML: <canvas id="me" width="100" height="100"></canvas>
 
