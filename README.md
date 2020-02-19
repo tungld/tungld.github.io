@@ -1,7 +1,3 @@
----
-title: Tung D. Le
----
-
 ## About me
 ___________
 
