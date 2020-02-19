@@ -1,3 +1,8 @@
+---
+title: Personal homepage
+author: Tung D. Le
+---
+
 ## About me
 ___________
 
@@ -44,13 +49,10 @@ Telephone number: +81-(3)-3808-5228.
 
 Email addresses:
 
-```{.src .src-haskell}
+```haskell
 l = ["le", "duc", "tung"] -- list index starts from 1
 w_email = fold (\x y: x ++ y) "" ([l[3], "@", "jp", ".ibm", ".com"])
 p_email = fold (\x y: x ++ y) "" ([l[3] ++ l[1][1] ++ l[2][1], "@", "gmail", ".com"])
 ```
 
-See [here](https://wiki.haskell.org/Fold) for `fold`{.src .src-haskell}.
-
-_____
-Its source code is available at [GitHub](https://github.com/tungld/tungld.github.io).
+See [here](https://wiki.haskell.org/Fold) for `fold`.
