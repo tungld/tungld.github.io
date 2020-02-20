@@ -10,6 +10,12 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-family: monospace;
 }
 
+pre {
+  font-family: Monaco, "Courier New", Courier;
+  margin-left: 3em;
+  font-size: 80%;
+}
+
 /* @group Baseline */
 body {
   font-size: 15px;
@@ -37,8 +43,9 @@ h3 {
   line-height: 1.125em;
   margin-top: 0.3em;
   margin-bottom: 0.3em;
+  margin-left: 1em;
 }
-p, ul, blockquote, pre, label {
+p, ul, blockquote, label {
   margin: 0;
   font-size: 1em;
   line-height: 1.2em;
