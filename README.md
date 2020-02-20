@@ -1,7 +1,6 @@
 ---
 title: Personal homepage
 author: Tung D. Le
-header-includes: <script src="scripts.js"></script>
 ---
 
 # Tung D. Le
