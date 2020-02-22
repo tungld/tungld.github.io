@@ -1,6 +1,5 @@
-/* @group Baseline */
 html {
-  background-image: url(/background.png);
+  /*background-image: url();*/
   background-position: left 0px;
   background-repeat: no-repeat;
   font-family: monospace;
@@ -54,10 +53,6 @@ pre, code {
   background-color: #f8f8f8;
   color: #111;
 }
-/*pre, code {
-  font-family: Monaco, "Courier New", Courier;
-  font-size: 90%;
-}*/
 
 /* link */
 a, a:visited, a:active {
