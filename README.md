@@ -8,7 +8,7 @@ author: Tung D. Le
 ## about me
 ___________
 
-I am a researcher at IBM Research - Tokyo. My main focus lies
+I am a researcher at [IBM Research - Tokyo](http://www.research.ibm.com/labs/tokyo). My main focus lies
 in the intersection of deep learning, compiler and high performance computing.
 
 Just in case, one may be interested in my [education](education.md) as well as [work history](work-history.md).
@@ -30,14 +30,12 @@ _________
 
 ## contact
 __________
-Office address: 10th floor, Tower side, [IBM Japan Headquarters](http://www.research.ibm.com/labs/tokyo/) (19-21, Nihonbashi Hakozaki-cho, Chuo-ku, Tokyo 103-8510, Japan).
-
+Office address: [10th floor, tower side, IBM Japan headquarters building](https://goo.gl/maps/mYFiyX95DBXEELrLA).
 Telephone number: +81-(3)-3808-5228.
 
-Email addresses:
+My preferred contact method is email:
 
 ```python
-l = ['le', 'duc', 'tung']
-w_email = l[2] + '@' + 'jp' + '.ibm' + '.com'
-p_email = l[2] + l[0][0] + l[1][0] + '@' + 'gmail' + '.com'
+working_email = 'tung' + '@' + 'jp' + '.ibm' + '.com'
+personal_email = 'tungld' + '@' + 'gmail' + '.com'
 ```
