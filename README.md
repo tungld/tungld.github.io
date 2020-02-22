@@ -31,7 +31,7 @@ _________
 ## contact
 __________
 Office address: [10th floor, tower side, IBM Japan headquarters building](https://goo.gl/maps/mYFiyX95DBXEELrLA).
-Telephone number: +81-(3)-3808-5228.
+Telephone number: +81-(3)-3808-5228
 
 My preferred contact method is email:
 
