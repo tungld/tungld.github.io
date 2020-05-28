@@ -21,7 +21,8 @@ and would like to apply it for systematically optimizing parallel programs in hi
 - Publications: [Google Scholar](https://scholar.google.co.jp/citations?user%3DuuV9qHcAAAAJ&hl%3Den)
 - Academic activities:
     - PC members: [ScalComm 2018](http://www.smart-world.org/2018/scalcom/), [ScalComm 2019](http://www.smart-world.org/2019/scalcom/)
-    - I am an [ACM member](https://dl.acm.org/author_page.cfm?id=84758683357).
+    - [ACM member since July 2016](https://dl.acm.org/author_page.cfm?id=84758683357)
+    - [Associate editor for IEICE transactions on Information and Systems (June 2020 - June 2024)](https://search.ieice.org/bin/editorial_board.php?lang=ed)
 
 ## family
 _________
