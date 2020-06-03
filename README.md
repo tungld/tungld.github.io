@@ -24,6 +24,8 @@ and would like to apply it for systematically optimizing parallel programs in hi
     - [ACM member since July 2016](https://dl.acm.org/author_page.cfm?id=84758683357)
     - [Associate editor for IEICE transactions on Information and Systems (June 2020 - June 2024)](https://search.ieice.org/bin/editorial_board.php?lang=ed)
 
+I collect [useful links](useful-links.md) that explain technical things in a simple and intuitive way.
+
 ## family
 _________
 - [My mother and young brother visited us in February 2015](assets/images/2015-February.jpeg).
