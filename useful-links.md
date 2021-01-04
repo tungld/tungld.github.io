@@ -13,9 +13,7 @@ _____________________________________
 - [Recurrent Neural Networks in Tensorflow](https://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html)
 
 
-### Reinformence learning
+### Reinforcement learning
 - [Reinforcement learning: An Introduction (book)](https://mitpress.mit.edu/books/reinforcement-learning-second-edition)
-- [Reinforcement learning - David Silver (video)](https://www.youtube.com/playlist?list=PLV_1KI9mrSpGFoaxoL9BCZeen_s987Yxb)
+- [UCL course on Reinforcement learning by David Silver](https://www.davidsilver.uk/teaching/)
 - [Reinforcement Learning - Prof. John Tsitsiklis (video)](https://www.youtube.com/watch?v=fbmAsxbLal0)
-- [A painless Q-Learning tutorial](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
-- [Introduction to reinforcement learning](https://towardsdatascience.com/introduction-to-reinforcement-learning-markov-decision-process-44c533ebf8da)
