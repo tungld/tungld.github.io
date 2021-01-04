@@ -24,7 +24,7 @@ and would like to apply it for systematically optimizing parallel programs in hi
     - [ACM member since July 2016](https://dl.acm.org/author_page.cfm?id=84758683357)
     - [Associate editor for IEICE transactions on Information and Systems (June 2020 - June 2024)](https://search.ieice.org/bin/editorial_board.php?lang=ed)
 - Software: [GitHub](https://github.com/tungld)
-  - [Q-learning for path finding in Python](https://github.com/tungld/reinforcement-learning/q-learning.py)
+  - [Q-learning for path finding in Python](https://github.com/tungld/reinforcement-learning/blob/main/q-learning.py)
   - [ONNX Models in MLIR Compiler Infrastructure](https://github.com/onnx/onnx-mlir)
   - [Graph-based Large Model Support for TensorFlow](https://github.com/IBM/tensorflow-large-model-support/tree/tflmsv2)
 
