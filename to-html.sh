@@ -8,7 +8,7 @@ tail="${tail}\n</p>"
 tail="${tail}\n</body>"
 tail="${tail}\n</html>"
 
-for f in "index" "education" "work-history" "useful-links"
+for f in "index" "education" "work-history" "useful-links" "cv/cv"
 do
   # --columns=1000 is a tricky to force pandoc not setting styles for table cells.
   pandoc ${f}.md -f markdown -t html --columns=1000 -o ${f}.body
@@ -21,6 +21,7 @@ do
 
   # clean up
   rm ${f}.body
+  rm ${f}.body-e
 
 done
 

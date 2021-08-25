@@ -11,7 +11,7 @@ ___________
 I am a researcher at [IBM Research - Tokyo](http://www.research.ibm.com/labs/tokyo). My main focus lies
 in the intersection of deep learning, compiler and high performance computing.
 
-Just in case, one may be interested in my [education](education.md) as well as [work history](work-history.md).
+Just in case, one may be interested in my [education](education.md) as well as [work history](work-history.md). A curriculum vitae is [here](cv/cv.md).
 
 ## research
 ___________
@@ -20,9 +20,9 @@ and would like to apply it for systematically optimizing parallel programs in hi
 
 - Publication: [Google Scholar](https://scholar.google.co.jp/citations?user%3DuuV9qHcAAAAJ&hl%3Den), [ResearchGate](https://www.researchgate.net/profile/Tung_Le15)
 - Academic activities:
-    - PC members: ScalCom ([2018](http://www.smart-world.org/2018/scalcom/), [2019](http://www.smart-world.org/2019/scalcom/))
     - [ACM member since July 2016](https://dl.acm.org/author_page.cfm?id=84758683357)
     - [Associate editor for IEICE transactions on Information and Systems (June 2020 - June 2024)](https://search.ieice.org/bin/editorial_board.php?lang=ed)
+    - PC members: ScalCom ([2018](http://www.smart-world.org/2018/scalcom/), [2019](http://www.smart-world.org/2019/scalcom/))
 - Software: [GitHub](https://github.com/tungld)
   - [Q-learning for path finding in Python](https://github.com/tungld/reinforcement-learning/blob/main/q-learning.py)
   - [ONNX Models in MLIR Compiler Infrastructure](https://github.com/onnx/onnx-mlir)
