@@ -21,7 +21,7 @@ In particular, I would love to propose systematic optimizations for parallel pro
 
 ## academic activities
 ______________________
-- [ACM member since July 2016](https://dl.acm.org/author_page.cfm?id=84758683357)
+- [ACM Senior Member since October 2021](https://dl.acm.org/author_page.cfm?id=84758683357)
 - [Associate editor for IEICE transactions on Information and Systems (June 2020 - June 2024)](https://search.ieice.org/bin/editorial_board.php?lang=ed)
 - PC members: ScalCom ([2018](http://www.smart-world.org/2018/scalcom/),
   [2019](http://www.smart-world.org/2019/scalcom/), 2020, 2021)
