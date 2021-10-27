@@ -16,5 +16,5 @@ models on Power machines with 3 to 4 times faster than x86 machines. Since
 2019, he has been working on Deep Learning Compiler for Z systems. He got Ph.D.
 from National Institute of Informatics, Japan in 2016 with major of systematic
 program transformation. His interest includes systematic methods to program
-optimizations.
+optimizations. He is an ACM Senior Member.
 
