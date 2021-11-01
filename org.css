@@ -2,7 +2,7 @@ html {
   /*background-image: url();*/
   background-position: left 0px;
   background-repeat: no-repeat;
-  font-family: monospace;
+  /*font-family: monospace;*/
   background-color: #eee;
   color: #252525;
   tab-size: 2;
@@ -15,7 +15,7 @@ body {
   box-shadow: 0 0 6px rgba(0,0,0,.2);
   padding-left: 2ch;
   padding-right: 3ch;
-  font-size: 150%;
+  font-size: 100%;
 }
 h1 {
   margin: 0;
@@ -60,7 +60,7 @@ a, a:visited, a:active {
   color: #444;
   font-weight: bold;
   text-decoration: none;
-  border-bottom: 1px dotted;
+  /*border-bottom: 1px dotted;*/
 }
 
 /* table */ 
