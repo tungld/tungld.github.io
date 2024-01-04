@@ -6,7 +6,7 @@ author: Tung D. Le
 # [Tung D. Le](https://www.ibm.biz/leductung)
  
 <p style="text-align: center;">
-Research Scientist <br>
+Staff Research Scientist <br>
 [IBM Research - Tokyo](https://www.research.ibm.com/labs/tokyo/) <br>
 [http://www.ibm.biz/leductung](http://www.ibm.biz/leductung)
 </p>
@@ -23,11 +23,13 @@ In particular, I would love to propose systematic optimizations for parallel pro
 ______________________
 - [ACM Senior Member since October 2021](https://dl.acm.org/author_page.cfm?id=84758683357)
 - [Associate editor for IEICE transactions on Information and Systems (June 2020 - June 2024)](https://search.ieice.org/bin/editorial_board.php?lang=ed)
-- PC members: ScalCom ([2018](http://www.smart-world.org/2018/scalcom/),
-  [2019](http://www.smart-world.org/2019/scalcom/), 2020, 2021)
+- PC members:
+  - ScalCom ([2018](http://www.smart-world.org/2018/scalcom/), [2019](http://www.smart-world.org/2019/scalcom/), 2020, 2021)
+  - SoICT [2022](https://soict.org/2022/committees/program-committees/)
 
 ## professional experience
-- 1/2017 - now: research staff member at IBM Research - Tokyo, Japan.
+- 5/2019 - now: staff research scientist at IBM Research - Tokyo, Japan.
+- 1/2017 - 4/2019: research scientist at IBM Research - Tokyo, Japan.
 - 4/2016 - 12/2016: postdoctoral researcher at IBM Research - Tokyo, Japan.
 - 4/2013 - 3/2016: Ph.D. student at National Informatics Institue, Japan. 
   - Topic: A systematic approach to regular-expression-based queries on big graphs
@@ -41,8 +43,7 @@ ______________________
 - 10/2008 - 9/2010: M.Sc. student at [HUST](https://www.hust.edu.vn/).
   - Topic: Skeleton parallel programming for Hierarchically Tiled Arrays.
   - Supervisors: [Dr. Huu-Duc Nguyen](https://scholar.google.com/citations?user=PphDl-kAAAAJ&hl=en)
-- 7/2007: two-week internship at [The San Diego Supercomputer Center,
-  UCSD](https://www.sdsc.edu/).  
+- 7/2007: two-week internship at [The San Diego Supercomputer Center, UCSD](https://www.sdsc.edu/).  
 - 6/2007 - 9/2012: Researcher at The High Peformance Computing Center, [HUST](https://www.hust.edu.vn/).
 
 ## education
@@ -58,14 +59,17 @@ ____________
 ## awards
 _________
 
-- The IBM Outstanding Technical Achievement Award (OTAA) in 2018, 2019, and 2020.
-- The IBM Open Source Recognition Award in 2018 (leader level), 2019 (contributor level), and 2020 (contributor level).
-- [Hitachi Scholarship for Ph.D.
-  courses](http://www.hitachi-zaidan.net/global/scholarship/index.html)
-  (October 2012 - April 2016). I am the only person from [HUST,
-  Vietnam](http://hust.edu.vn/) ever who gets the scholarship. 
-- PLMW Scholarship 2015 to attend [PLMW2015](http://plmw15.iisc-seal.net) and
-  [POPL2015](http://popl.mpi-sws.org/2015/).
+- IBM Corporate Techinical Award (CTA) in 2023.
+  - The award recognizes the most outstanding IBM technical accomplishments in a year.
+  - I got the award for my contribution to a deep learning compiler that supports IBM Integrated On-Chip AI Accelerator in IBM z16.
+- IBM Tech2023 award for top technical contributors in IBM.
+- The IBM Outstanding Innovation Award (OIA) in 2022.
+- The IBM Outstanding Technical Achievement Award (OTAA) in 2018, 2019, 2020, 2021.
+- The IBM Technical Collaboration Achievement Program award (TCAP, a new type of OSRP) in 2022 (leader level), and 2023 (leader level).
+- The IBM Open Source Recognition Program award (OSRP) in 2018 (leader level), 2019 (contributor level), 2020 (contributor level), 2021 (contributor level).
+- [Hitachi Scholarship for Ph.D. courses](http://www.hitachi-zaidan.net/global/scholarship/index.html)
+  (October 2012 - April 2016). I am the only person from [HUST, Vietnam](http://hust.edu.vn/) ever who gets the scholarship.
+- PLMW Scholarship 2015 to attend [PLMW2015](http://plmw15.iisc-seal.net) and [POPL2015](http://popl.mpi-sws.org/2015/).
 - [ICDE2015 Student Travel Award](http://www.icde2015.kr/info/student-travel-awards.html).
 
 ## projects
