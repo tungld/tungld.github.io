@@ -30,11 +30,6 @@ and would like to apply it for systematically optimizing parallel programs in hi
 
 I collect [useful links](useful-links.md) that explain technical things in a simple and intuitive way.
 
-## family
-_________
-- [My mother and young brother visited us in February 2015](assets/images/2015-February.jpeg).
-- [Our wedding anniversary in March 2019](assets/images/2019-family.jpg).
-
 ## contact
 __________
 Office address: [10th floor, tower side, IBM Japan headquarters building](https://goo.gl/maps/mYFiyX95DBXEELrLA).
