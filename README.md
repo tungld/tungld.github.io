@@ -13,15 +13,13 @@ author: Tung D. Le
 ___________
 
 I am a researcher at [IBM Research - Tokyo](http://www.research.ibm.com/labs/tokyo). My main focus lies
-in the intersection of deep learning, compiler and high performance computing.
-
-Just in case, one may be interested in my [education](education.md) as well as [work history](work-history.md). A curriculum vitae is [here](cv/cv.md).
+in the intersection of deep learning, compiler and high performance computing. Just in case, one may be interested in my [education](education.md) as well as [work history](work-history.md). My curriculum vitae is available [here](cv/cv.md).
 
 ## research
 ___________
 
 I really like the beauty of [the algebra of programming](https://www.amazon.com/Algebra-Programming-Prentice-hall-International-Computer/dp/013507245X)
-and would like to apply it for systematically optimizing parallel programs in high performance computing and deep learning.
+and would like to apply it for systematically optimizing parallel programs in high performance computing and deep learning. I am open to any interesting research collaboration.
 
 - Publication: [Google Scholar](https://scholar.google.co.jp/citations?user%3DuuV9qHcAAAAJ&hl%3Den), [ResearchGate](https://www.researchgate.net/profile/Tung_Le15)
 - Academic activities:
@@ -33,7 +31,7 @@ and would like to apply it for systematically optimizing parallel programs in hi
   - [ONNX Models in MLIR Compiler Infrastructure](https://github.com/onnx/onnx-mlir)
   - [Graph-based Large Model Support for TensorFlow](https://github.com/IBM/tensorflow-large-model-support/tree/tflmsv2)
 
-I collect [useful links](useful-links.md) that explain technical things in a simple and intuitive way.
+I have been collecting [useful resources](useful-links.md) that explain technical things in a simple and intuitive way.
 
 ## contact
 __________
