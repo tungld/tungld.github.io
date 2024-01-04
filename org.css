@@ -72,5 +72,12 @@ td, th {
   padding: 0 20px;
 }
 
+/* Round the image */
+img {
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 0;
+}
+
 /* @end */
 
