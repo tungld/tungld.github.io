@@ -5,8 +5,8 @@ author: Tung D. Le
 
 ##
 
-|                                            |                                                                                                |
-| :------------------------------------      | :------------------------------------------------------------------------------------------    |
+|                                             |                                                                                                |
+| :------------------------------------       | :------------------------------------------------------------------------------------------    |
 | ![Tung D. Le](assets/images/2010-tung.jpeg) | **Tung D. Le** <br/> Staff Research Scientist </br> IBM Research - Tokyo <br/> tung@jp.ibm.com |
 
 ## about me
@@ -38,6 +38,6 @@ I collect [useful links](useful-links.md) that explain technical things in a sim
 ## contact
 __________
 
-- Office address: [10th floor, tower side, IBM Japan headquarters building](https://goo.gl/maps/mYFiyX95DBXEELrLA).
-- Telephone number: +81-(3)-3808-5228
+- Office address: [23rd floor, river side, IBM Japan headquarters building](https://goo.gl/maps/mYFiyX95DBXEELrLA).
+- Telephone number: +81-(80)-5915-1439
 - Email: tung@jp.ibm.com

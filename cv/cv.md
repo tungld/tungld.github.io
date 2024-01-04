@@ -237,7 +237,7 @@ ____________________________
 ## contact
 __________
 
-Office address: [10th floor, tower side, IBM Japan headquarters building](https://goo.gl/maps/mYFiyX95DBXEELrLA). <br>
-Telephone number: +81-(3)-3808-5228 <br>
+Office address: [23rd floor, river side, IBM Japan headquarters building](https://goo.gl/maps/mYFiyX95DBXEELrLA). <br>
+Telephone number: +81-(80)-5915-1439 <br>
 E-mail: tung@jp.ibm.com
 
