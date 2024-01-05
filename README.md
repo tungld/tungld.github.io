@@ -25,7 +25,7 @@ and would like to apply it for systematically optimizing parallel programs in hi
 - Academic activities:
     - [ACM Senior Member since October 2021](https://dl.acm.org/author_page.cfm?id=84758683357)
     - [Associate editor for IEICE transactions on Information and Systems (June 2020 - June 2024)](https://search.ieice.org/bin/editorial_board.php?lang=ed)
-    - PC members: ScalCom ([2018](http://www.smart-world.org/2018/scalcom/), [2019](http://www.smart-world.org/2019/scalcom/), 2020, 2021)
+    - PC members: SoICT [2022](https://soict.org/2022/committees/program-committees/), ScalCom ([2018](http://www.smart-world.org/2018/scalcom/), [2019](http://www.smart-world.org/2019/scalcom/), 2020, 2021).
 - Software: [GitHub](https://github.com/tungld)
   - [Q-learning for path finding in Python](https://github.com/tungld/reinforcement-learning/blob/main/q-learning.py)
   - [ONNX Models in MLIR Compiler Infrastructure](https://github.com/onnx/onnx-mlir)
