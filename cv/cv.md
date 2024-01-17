@@ -83,56 +83,61 @@ _______________________
 ## patents
 __________
 
-### granted patents
-1. **Tung D. Le**, Imai Haruki, and Yasushi Negishi.
-   *Efficient parallel training of a network model on multiple graphics processing units*. (Mar. 2021).
-   US Patent No. US 10949746 B2, Filed Feb. 3, 2017, Granted Mar. 16, 2021. 
-   
-2. **Tung D. Le**, Haruki Imai, Yasushi Negishi, and Kiyokuni Kawachiya.
-   *Graph rewriting for large model support using categorized topological sort*. (Jan. 2021) 
-   US Patent No. 10884755 B1, Filed Jul . 31, 2019, Granted Jan. 5, 2021.
-   
-3. Taro Sekiyama, Kiyokuni Kawachiya, **Tung D. Le**, Yasushi Negishi.
-   *Real-time resource usage reduction in artificial neural networks*. (Feb. 2020).
-   US Patent No. 10558914 B2, Filed Apr. 16, 2019, Granted Feb. 11, 2020. 
-
-### filed patents
-1. Haruki Imai, **Tung D. Le**, Yasushi Negishi, Kiyokuni Kawachiya.
-   *Data swapping for neural network memory conservation*.
-   US Patent App. 17/089245, Filed Nov. 4, 2020.
-   
-2. Yasushi Negishi, **Tung D. Le**, Haruki Imai, Kiyokuni Kawachiya.
-   *ReLU compression to reduce gpu memory*.
-   US Patent App. 17/085196, Filed Oct. 30, 2020. 
-
-3. **Tung D. Le**.
+1. **Tung D. Le**.
    *Neural programmer interpreters with modeled primitives*.
-   US Patent App. 16/514528, Filed Jul. 17, 2019. 
- 
-4. Gradus Janssen, Vladimir Zolotov, and **Tung D. Le**.
+   US patent no. 11836613 B2, date of patent Dec. 5, 2023.
+
+2. Gradus Janssen, Vladimir Zolotov, and **Tung D. Le**.
    *Neural network training using a data flow graph and dynamic memory management*.
-   US Patent App. 16/704240, Filed Dec. 5, 2019.
+   US patent no. 11512062 B2, date of patent Dec. 6, 2022.
 
-5. Yasushi Negishi, Haruki Imai, Taro Sekiyama, **Tung D. Le**, Kiyokuni Kawachiya.
-   *Mechanism for choosing execution mode for large neural network*.
-   US Patent App. 16/018680, Filed Jun. 26, 2018.
-   
-6. Taro Sekiyama, **Tung D. Le**, Kun Zhao. 
-   *Optimizing tree-based convolutional neural networks*.
-   US Patent App. 15/617737, Filed Jun. 8, 2017.
+3. Taro Sekiyama, Kiyokuni Kawachiya, **Tung D. Le**, and Yasushi Negishi.
+   *Real-time resource usage reduction in artificial neural networks*.
+   US patent no. 11461637 B2, date of patent Oct. 4, 2022.
 
-7. Kiyokuni Kawachiya, **Tung D. Le**, Yasushi Negishi.
-   *Balancing memory consumption of multiple graphics processing units in deep learning*.
-   US Patent App. 15/604542, Filed May. 24, 2017.
-   
-8. **Tung D. Le**, Haruki Imai, Taro Sekiyama, Yasushi Negishi.
-   *Multi-gpu deep learning using cpus*.
-   US Patent App. 15/843244, Filed Dec. 15, 2017.  
+4. Yasushi Negishi, **Tung D. Le**, Haruki Imai, and Kiyokuni Kawachiya.
+   *Relu compression to reduce GPU memory*.
+   US patent no. 11362670 B2, date of patent Jun. 14, 2022.
 
-9. Taro Sekiyama, **Tung D. Le**. 
+5. **Tung D. Le**, Haruki Imai, Taro Sekiyama, and Yasushi Negishi.
+   *Multi-GPU deep learning using CPUs*.
+   US patent No. 11164079 B2, date of patent Nov. 2, 2021.
+
+6. **Tung D. Le** and Taro Sekiyama.
    *Localizing tree-based convolutional neural networks*.
-   US Patent App. 15/815771, Filed Nov. 17, 2017.
-   
+   US patent no. 11106970 B2, date of patent Aug. 31, 2021.
+
+7. **Tung D. Le**, Imai Haruki, and Yasushi Negishi.
+   *Efficient parallel training of a network model on multiple graphics processing units*.
+   US patent no. 10949746 B2, date of patent Mar. 16, 2021. 
+
+8. **Tung D. Le**, Haruki Imai, Yasushi Negishi, and Kiyokuni Kawachiya.
+   *Graph rewriting for large model support using categorized topological sort*.
+   US patent no. 10884755 B1, date of Pattent Jan. 5, 2021.
+
+9. Taro Sekiyama, Kiyokuni Kawachiya, **Tung D. Le**, and Yasushi Negishi.
+   *Real-time resource usage reduction in artificial neural networks*.
+   US patent no. 10558914 B2, date of patent Feb. 11, 2020.
+
+10. Taro Sekiyama, Kiyokuni Kawachiya, **Tung D. Le**, and Yasushi Negishi.
+   *Real-time resource usage reduction in artificial neural networks*.
+   US patent no. 10268951 B2, date of patent Apr. 23, 2019.
+
+## talks
+________
+
+1. **Tung D. Le** (speaker), Alexander Eichenberger, and Tong Chen.
+   *Dynamic Dimension Analysis in onnx-mlir Compiler*.
+   ONNX Community Meetup 2023 @ NVIDIA, Santa Clara, CA. June 28, 2023.
+   [Slides](https://wiki.lfaidata.foundation/display/DL/ONNX+Community+Day+2023+-+June+28?preview=/84705448/84705505/onnx-mlir-dynamic-dimension-analysis.pdf). [Video](https://www.youtube.com/watch?v=wAnXCFh3lB8&t=136s).
+
+2. **Tung D. Le** (speaker).
+   *Onnx-mlir: an MLIR-based Compiler for ONNX Models - The Latest Status*.
+   ONNX Community Meetup 2022 @ Microsoft Sillicon Valley Campus. June 28, 2022.
+   [Slides](https://wiki.lfaidata.foundation/download/attachments/61964495/18_IBM.pdf?version=1&modificationDate=1657155776000&api=v2). [Video](https://www.youtube.com/watch?v=V70XXsPVrzg).
+
+ 
+
 ## conference/journal papers
 ____________________________
 

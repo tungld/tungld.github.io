@@ -7,13 +7,13 @@ author: Tung D. Le
 
 |                                             |                                                                                                |
 | :------------------------------------       | :------------------------------------------------------------------------------------------    |
-| ![Tung D. Le](assets/images/2010-tung.jpeg) | **Tung D. Le** <br/> Staff Research Scientist </br> IBM Research - Tokyo <br/> tung@jp.ibm.com |
+| ![Tung D. Le](assets/images/2010-tung.jpeg) | **Tung D. Le** <br/> Staff Research Scientist </br> IBM Research - Tokyo <br/> tung@jp.ibm.com <br/> [www.ibm.biz/leductung](http://www.ibm.biz/leductung) |
 
 ## about me
 ___________
 
 I am a researcher at [IBM Research - Tokyo](http://www.research.ibm.com/labs/tokyo). My main focus lies
-in the intersection of deep learning, compiler and high performance computing. Just in case, one may be interested in my [education](education.md) as well as [work history](work-history.md). My curriculum vitae is available [here](cv/cv.md).
+in the intersection of deep learning, compiler and high performance computing. Just in case, one may be interested in my [education](education.md) as well as [work history](work-history.md). Complete information about me is available [here](cv/cv.md).
 
 ## research
 ___________
