@@ -21,11 +21,12 @@ In particular, I would love to propose systematic optimizations for parallel pro
 
 ## academic activities
 ______________________
-- [ACM Senior Member since October 2021](https://dl.acm.org/author_page.cfm?id=84758683357)
 - [Associate editor for IEICE transactions on Information and Systems (June 2020 - June 2024)](https://search.ieice.org/bin/editorial_board.php?lang=ed)
 - PC members:
   - ScalCom ([2018](http://www.smart-world.org/2018/scalcom/), [2019](http://www.smart-world.org/2019/scalcom/), 2020, 2021)
   - SoICT [2022](https://soict.org/2022/committees/program-committees/)
+- Lectures: [Deep Learning Compiler & MLIR](https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342222&KeiCD=22&course=22&KougiCD=202204021&Nendo=2022&lang=EN&vid=03) at Tokyo Institue of Tecnology, Japan in 2023.
+- [ACM Senior Member since October 2021](https://dl.acm.org/author_page.cfm?id=84758683357)
 
 ## professional experience
 - 5/2019 - now: staff research scientist at IBM Research - Tokyo, Japan.
