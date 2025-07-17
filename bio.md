@@ -7,14 +7,11 @@ author: Tung D. Le
  
 ## brief biography 
 
-Tung Duc Le is a researcher of the Systems group in TRL and working on
-optimizations for AI systems. He had involved in the IBM PowerAI software
-product since its inception in 2016, and did optimizations for Caffe and
-Tensorflow deep learning frameworks. He was the author of Tensorflow Large
-Model Support in IBM PowerAI, which allowed training very large deep learning
-models on Power machines with 3 to 4 times faster than x86 machines. Since
-2019, he has been working on Deep Learning Compiler for Z systems. He got Ph.D.
-from National Institute of Informatics, Japan in 2016 with major of systematic
-program transformation. His interest includes systematic methods to program
-optimizations. He is an ACM Senior Member.
-
+Tung Duc Le is a researcher at IBM Research - Tokyo, specializing in AI system
+optimizations. He has been working on deep learning compiler technologies for
+IBM Z systems. Earlier, he contributed to IBM PowerAI from its inception,
+including performance tuning for Caffe and TensorFlow, and developed TensorFlow
+Large Model Support (LMS) for IBM Power systems.  He received his Ph.D. in 2016
+from the National Institute of Informatics in Japan, where he focused on
+systematic program transformation. His research interests include systematic
+approaches to program optimization. He is a Senior Member of the ACM.
