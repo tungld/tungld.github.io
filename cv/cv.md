@@ -6,7 +6,7 @@ author: Tung D. Le
 # [Tung D. Le](https://www.ibm.biz/leductung)
  
 <p style="text-align: center;">
-Staff Research Scientist <br>
+Senior Research Scientist <br>
 [IBM Research - Tokyo](https://www.research.ibm.com/labs/tokyo/) <br>
 [http://www.ibm.biz/leductung](http://www.ibm.biz/leductung)
 </p>
@@ -28,7 +28,8 @@ ______________________
   - SoICT [2022](https://soict.org/2022/committees/program-committees/)
 
 ## professional experience
-- 5/2019 - now: staff research scientist at IBM Research - Tokyo, Japan.
+- 7/2025 - now: senior research scientist at IBM Research - Tokyo, Japan.
+- 5/2019 - 6/2025: staff research scientist at IBM Research - Tokyo, Japan.
 - 1/2017 - 4/2019: research scientist at IBM Research - Tokyo, Japan.
 - 4/2016 - 12/2016: postdoctoral researcher at IBM Research - Tokyo, Japan.
 - 4/2013 - 3/2016: Ph.D. student at National Informatics Institue, Japan. 
@@ -63,9 +64,9 @@ _________
   - The award recognizes the most outstanding IBM technical accomplishments in a year.
   - I got the award for my contribution to a deep learning compiler that supports IBM Integrated On-Chip AI Accelerator in IBM z16.
 - IBM Tech2023 award for top technical contributors in IBM.
-- The IBM Outstanding Innovation Award (OIA) in 2022.
-- The IBM Outstanding Technical Achievement Award (OTAA) in 2018, 2019, 2020, 2021.
-- The IBM Technical Collaboration Achievement Program award (TCAP, a new type of OSRP) in 2022 (leader level), and 2023 (leader level).
+- The IBM Outstanding Innovation Award (OIA) in 2022, 2025.
+- The IBM Outstanding Technical Achievement Award (OTAA) in 2018, 2019, 2020, 2021, 2024.
+- The IBM Technical Collaboration Achievement Program award (TCAP, a new type of OSRP) in 2022 (leader level), 2023 (leader level) and 2024 (leader level).
 - The IBM Open Source Recognition Program award (OSRP) in 2018 (leader level), 2019 (contributor level), 2020 (contributor level), 2021 (contributor level).
 - [Hitachi Scholarship for Ph.D. courses](http://www.hitachi-zaidan.net/global/scholarship/index.html)
   (October 2012 - April 2016). I am the only person from [HUST, Vietnam](http://hust.edu.vn/) ever who gets the scholarship.
