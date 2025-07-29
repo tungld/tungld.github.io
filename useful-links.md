@@ -17,3 +17,11 @@ _____________________________________
 - [Reinforcement learning: An Introduction (book)](https://mitpress.mit.edu/books/reinforcement-learning-second-edition)
 - [UCL course on Reinforcement learning by David Silver](https://www.davidsilver.uk/teaching/)
 - [Reinforcement Learning - Prof. John Tsitsiklis (video)](https://www.youtube.com/watch?v=fbmAsxbLal0)
+
+### Large Language Models (LLMs)
+- [Attention is all you need](https://arxiv.org/abs/1706.03762)
+  - The original paper that introduced the transformer architecture.
+- [LLM Leaderboard](https://llm-stats.com/)
+  - A live leaderboard comparing LLMs like GPT-4o, LLaMA, Claude, Gemini, and more.
+- [The walkthrough of the GPT large language model](https://bbycroft.net/llm)
+  - A 3D animated walkthrough of a transformer-based LLM.
