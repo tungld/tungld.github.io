@@ -7,7 +7,7 @@ author: Tung D. Le
 
 |                                             |                                                                                                 |
 | :------------------------------------       | :------------------------------------------------------------------------------------------     |
-| ![Tung D. Le](assets/images/2010-tung.jpeg) | **Tung D. Le** <br/> Senior Research Scientist </br> IBM Research - Tokyo <br/> tung@jp.ibm.com |
+| ![Tung D. Le](assets/images/2010-tung.jpeg) | **Tung D. Le** <br/> Senior Research Scientist </br> IBM Research - Tokyo <br/> tung@jp.ibm.com <br/> [https://ibm.biz/leductung](https://ibm.biz/leductung) |
 
 ## about me
 ___________
